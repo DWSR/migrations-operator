@@ -13,8 +13,8 @@ require (
 	github.com/onsi/gomega v1.10.2
 	github.com/pkg/errors v0.9.1
 	golang.org/x/sys v0.0.0-20220325203850-36772127a21f // indirect
-	k8s.io/api v0.18.6
-	k8s.io/apimachinery v0.18.6
-	k8s.io/client-go v0.18.6
+	k8s.io/api v0.18.14
+	k8s.io/apimachinery v0.18.14
+	k8s.io/client-go v0.18.14
 	sigs.k8s.io/controller-runtime v0.6.3
 )
